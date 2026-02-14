@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "探し人の紡ぎ歌",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:33:31.108421Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "探し人の紡ぎ歌 (feat. 安次嶺希和子)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_探し人の紡ぎ歌_(feat._安次嶺希和子)_未来古代楽団.txt"
+    }
+  ]
+}
